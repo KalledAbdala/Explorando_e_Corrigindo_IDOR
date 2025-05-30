@@ -2,7 +2,7 @@
 
 ## 📚 Sobre
 
-Este repositório foi criado como parte de uma **atividade acadêmica** da disciplina **Segurança de Sistemas Web** (5º Semestre). A tarefa visa a **análise**, **exploração** e **correção** de uma vulnerabilidade do tipo **IDOR (Insecure Direct Object Reference)**.
+Este repositório foi criado como parte de uma **atividade acadêmica** da disciplina **Segurança de Sistemas Web** (5º Semestre). A tarefa visa a **análise**, **exploração** e **correção** de uma vulnerabilidade do tipo **IDOR**.
 
 ## 🎯 Objetivos
 
